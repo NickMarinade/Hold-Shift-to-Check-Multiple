@@ -1,0 +1,1 @@
+checkboxes.forEach(checkbox => checkbox.addEventListener("click", handleCheck));
